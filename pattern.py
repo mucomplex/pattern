@@ -1,5 +1,5 @@
 import string
-from fractions import gcd
+from math import gcd
 from itertools import islice, cycle, chain, product
 from functools import reduce
 import operator
